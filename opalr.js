@@ -1,1 +1,1 @@
-function opalr(text){return alert(text);}
+alert("Hi");
