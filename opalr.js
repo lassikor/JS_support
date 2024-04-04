@@ -1,1 +1,1 @@
-function opalr(){alert("My First jQuery Test");}
+function opalr(text){alert(text);}
